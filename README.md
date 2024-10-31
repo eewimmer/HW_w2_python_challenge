@@ -1,2 +1,2 @@
-# HW_w2_python_challenge
-Week 2 Python Challenge 
+# HW_w3_python_challenge
+Week 3 Python Challenge 
